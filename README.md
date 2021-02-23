@@ -6,7 +6,7 @@
 > - Appuyer sur ENTRER
 > - Aller dans les paramètre puis dans "Experiments" (il s'affichera normalement si le programme à correctement fonctionné"
 > - Choississez le module "Stickers user Experiment" et choisissez "Treatment 1"
-> - Retourner ds le tchat normal et un nouveau logo apparaittera, vous pourrez cliquer sur le shop pour acheter des stickers (il y en a des payant et gratuits)
+> - Retourner dans le tchat normal et un nouveau logo apparaittera, vous pourrez cliquer sur le shop pour acheter des stickers (il y en a des payant et gratuits)
 
 ## 👍 Aperçu final
 ![Stickers](https://i.imgur.com/mkWBepD.png)
